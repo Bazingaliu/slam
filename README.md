@@ -1,9 +1,5 @@
 # 《视觉SLAM十四讲》手推笔记
 
-## by 【计算机视觉联盟】 王博（Kings）、Sophia
-
-### [同时我们还开源了《机器学习》手推笔记](https://github.com/Sophia-11/Machine-Learning-Notes)
-
 *Last updated: 2019/11/16*
 
 ### 
